@@ -1,0 +1,5 @@
+﻿  SortFunction.cpp
+  main.cpp
+c:\users\admin\desktop\projekty\sortowania\sortowania\main.cpp(137): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Sortowania.vcxproj -> C:\Users\Admin\Desktop\Projekty\Sortowania\Debug\Sortowania.exe
